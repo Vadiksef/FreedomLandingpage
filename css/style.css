@@ -214,7 +214,7 @@ body {
 }
 .button span::before {
   content: "";
-  background: url("/img/block1/bx_chevron-right (1).svg") 10px 0 no-repeat;
+  background: url("../img/block1/bx_chevron-right (1).svg") 10px 0 no-repeat;
   padding: 0px 0px 0 30px;
 }
 .button:hover {
